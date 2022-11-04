@@ -1,1 +1,1 @@
-# linear_regresssion_imbd_score_
+# linear_regresssion_imdb_score_
